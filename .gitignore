@@ -99,6 +99,7 @@ package-lock.json
 /template/vendor
 
 # iOS / CocoaPods
+ios/
 /template/ios/build/
 /template/ios/Pods/
 /template/ios/Podfile.lock
@@ -118,6 +119,7 @@ package-lock.json
 /sdks/download
 /sdks/hermes
 /sdks/hermesc
+
 
 # Visual studio
 .vscode
